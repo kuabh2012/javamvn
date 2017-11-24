@@ -1,5 +1,4 @@
- E-commerce Demo
-
+ 
 To build type:
   mvn compile
 
